@@ -1,1 +1,3 @@
 # scripts
+
+These are scripts that I wrote, cobbled together, etc. to just make things work for me. They may not be good or useful for you, but for me, they are good enough...
